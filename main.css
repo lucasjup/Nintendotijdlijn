@@ -9,6 +9,11 @@ h1, h2, h3, p {
   font-family: Arial;
 }
 
+h1, h2, h3 {
+  font-family: roboto, sans-serif;
+  font-weight: 700;
+}
+
 h1 {
   color: #2a1006;
   font-size: 2em;
@@ -33,6 +38,8 @@ h3 {
 p {
   padding: 4%;
   text-align: justify;
+  font-family: all-round-gothic, sans-serif;
+  font-weight: 400;
 }
 
 img {
